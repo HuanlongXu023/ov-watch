@@ -3,12 +3,15 @@
 
 # 不忽略 main.c
 !BSP/
+!BSP/**
 
 # 不忽略 lv_100ask_lesson_demos 文件夹
 !Core/
+!Core/**
 
 # 不忽略 lv_100ask_lesson_demos 文件夹中的所有内容
 !User/
+!User/**
 
 # 不忽略 .gitignore 本身
 !.gitignore
