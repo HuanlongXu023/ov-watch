@@ -1,0 +1,16 @@
+# 忽略所有文件
+*
+
+# 不忽略 main.c
+!BSP/
+
+# 不忽略 lv_100ask_lesson_demos 文件夹
+!Core/
+
+# 不忽略 lv_100ask_lesson_demos 文件夹中的所有内容
+!User/
+
+# 不忽略 .gitignore 本身
+!.gitignore
+
+
