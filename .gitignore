@@ -13,6 +13,9 @@
 !User/
 !User/**
 
+!SYSTEM/
+!SYSTEM/**
+
 # 不忽略 .gitignore 本身
 !.gitignore
 
